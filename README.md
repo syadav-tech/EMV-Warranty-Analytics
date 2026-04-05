@@ -1,5 +1,5 @@
 # EMV Motors - Warranty Cost Intelligence
-
+![EMV Warranty Analytics Cover](cover.png)
 ## Project Overview
 An end-to-end automotive warranty analytics project built using the PACE framework 
 (Plan, Analyse, Construct, Execute). This project analyses synthetic warranty claims 
