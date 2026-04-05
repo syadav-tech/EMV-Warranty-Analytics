@@ -1,0 +1,16 @@
+name,family,primary_supplier,component_code
+Turbocharger,Powertrain,AK1V-RJNV,RVH-S1K3
+Brake Caliper,Chassis,AK1V-RJNV,AQ6-L6GT
+Transmission Assembly,Powertrain,AK1V-RJNV,IP9-8Q1Z
+Drive Shaft,Powertrain,AK1V-RJNV,HJK-1EYY
+Alternator,Electrical,GFYG-WWQC,71N-8MTZ
+Starter Motor,Electrical,GFYG-WWQC,37Q-9AH8
+Blower Motor,HVAC,GFYG-WWQC,8II-49KQ
+Compressor,HVAC,GFYG-WWQC,6MJ-XK87
+Steering Knuckle,Chassis,MECO-SFOG,3YR-9OUD
+Tie Rod,Chassis,MECO-SFOG,X27-2HPO
+Steering Column,Chassis,MECO-SFOG,PDP-FF5E
+Suspension Control Arm,Chassis,MECO-SFOG,AU5-BHXT
+Door Panel,Body,YR3X-KXWN,OCU-ZREN
+Front Bumper,Body,YR3X-KXWN,UN5-Z3JQ
+Tailgate,Body,YR3X-KXWN,XOI-65FD

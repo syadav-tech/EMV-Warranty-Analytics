@@ -1,0 +1,9 @@
+supplier_code,quality_score,quality_band,tier,city,contract_start_date
+AK1V-RJNV,7,Good,Tier 1,Berlin,2023-04-30
+HBRP-OIG8,10,Excellent,Tier 2,Mexico City,2022-08-13
+F1CB-FNO6,9,Excellent,Tier 2,Dubai,2023-03-30
+GFYG-WWQC,8,Excellent,Tier 1,Beijing,2021-04-04
+38HY-F9SX,6,Good,Tier 2,Manesar,2020-01-22
+B9M8-0O2R,6,Good,Tier 2,Bangalore,2022-01-17
+MECO-SFOG,5,Poor,Tier 1,Abu Dhabi,2021-04-19
+YR3X-KXWN,10,Excellent,Tier 1,Paris,2022-12-18
