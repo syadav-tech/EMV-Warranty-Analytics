@@ -58,4 +58,8 @@ Synthetic data generated using Python — 3 relational tables:
 1. Clone the repository
 2. Install dependencies: `pip install pandas numpy matplotlib seaborn jupyter`
 3. Run `01_data_generation.ipynb` first to generate CSV files
-4. Run `02_eda_analysis.ipynb` for exploratory an
+4. Run `02_eda_analysis.ipynb` for exploratory analysis
+5. Review `03_executive_summary.ipynb` for findings and recommendations
+
+## Author
+**Shubham Yadav** | Systems & Requirements Engineer | April 2026  
